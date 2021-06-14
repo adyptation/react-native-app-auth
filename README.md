@@ -1,3 +1,6 @@
+<h1>REASON FOR THIS FORK</h1>
+<p>This library had some native namespace clashes with the Auth0 library.</p>
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/FormidableLabs/react-native-app-auth/main/docs/react-native-app-auth-logo.png" width=224></p>
 <h2 align="center">React Native App Auth</h2>
 <p align="center">
